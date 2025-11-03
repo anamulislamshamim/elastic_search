@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Sample Title 1",
+    "text": "This is the first sample document text.",
+    "created_on": "2024-09-22"
+  },
+  {
+    "title": "Sample Title 2",
+    "text": "Elasticsearch makes searching and analyzing large amounts of data fast and efficient.",
+    "created_on": "2024-10-05"
+  },
+  {
+    "title": "Sample Title 3",
+    "text": "Django Rest Framework simplifies API development with powerful serialization tools.",
+    "created_on": "2024-11-14"
+  },
+  {
+    "title": "Sample Title 4",
+    "text": "Python provides a wide range of libraries for data analysis, automation, and backend development.",
+    "created_on": "2025-01-10"
+  },
+  {
+    "title": "Sample Title 5",
+    "text": "FastAPI is an excellent choice for building high-performance APIs with async capabilities.",
+    "created_on": "2025-02-02"
+  }
+]
